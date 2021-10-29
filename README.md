@@ -3,7 +3,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on implimenting IPFS & Defi on my personal blockcahin.
+- 🔭 I’m currently working on implimenting IPFS & Defi on my personal blockchain.
 - 💬 Ask me about blockcahin or quantum electrodynamics
 - 📫 How to reach me: pavanananth@protonmail.com
 - 😄 Pronouns: He/Him
