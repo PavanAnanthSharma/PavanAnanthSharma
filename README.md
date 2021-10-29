@@ -9,6 +9,8 @@
 - 🕵️ Highlights : PRO
 - <span title="Label: Pro" data-view-component="true" class="Label Label--purple text-uppercase">
   Pro
+</span>
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <center><img src = "https://github-readme-stats.vercel.app/api?username=PavanAnanthSharma&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></center>
