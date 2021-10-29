@@ -8,8 +8,8 @@
 - 📫 How to reach me: pavanananth@protonmail.com
 - 😄 Pronouns: He/Him
 - 🕵️ Highlights : PRO
-- ✔ languages known: | Python : I | C++ : I | C : I | Solidity : I | JavaScript(Node & React) : I | Go : B | Kotlin : B | Shell : B |
-- ✨(B : Beginner, I : Intermediate )
+- ✨ languages known: | Python : I | C++ : I | C : I | Solidity : I | JavaScript(Node & React) : I | Go : B | Kotlin : B | Shell : B |
+- ✔ (B : Beginner, I : Intermediate )
 - ✌ In progress skills: MongoDB | Angular | Figma UX-UI | 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
