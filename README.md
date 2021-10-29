@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on implimenting IPFS & Defi on my personal blockcahin.
 - 💬 Ask me about blockcahin or quantum electrodynamics
 - 📫 How to reach me: pavanananth@protonmail.com
-- 😄 Pronouns: He/His/Him
+- 😄 Pronouns: He/Him
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <center><img src = "https://github-readme-stats.vercel.app/api?username=PavanAnanthSharma&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></center>
