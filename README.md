@@ -7,7 +7,7 @@
 - 💬 Ask me about blockcahin or quantum electrodynamics
 - 📫 How to reach me: pavanananth@protonmail.com
 - 😄 Pronouns: He/Him
-- 🕵️ Highlights : PRO
+- 🕵️ Highlights : Pro | I love StarWars
 - ✨ languages known: | Python : I | C++ : I | C : I | Solidity : I | JavaScript(Node & React) : I | Go : B | Kotlin : B | Shell scripting : B |
 - ✔(B : Beginner, I : Intermediate )
 - ✌  In progress skills: | MongoDB | Angular | Figma UX-UI | C# | Vyper | Haskell | Rust |
