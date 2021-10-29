@@ -7,9 +7,6 @@
 - 📫 How to reach me: pavanananth@protonmail.com
 - 😄 Pronouns: He/Him
 - 🕵️ Highlights : PRO
-- <span title="Label: Pro" data-view-component="true" class="Label Label--purple text-uppercase">
-  Pro
-</span>
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
