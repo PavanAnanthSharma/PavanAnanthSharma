@@ -3,14 +3,15 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on implimenting IPFS & Defi on my personal blockchain.
-- 💬 Ask me about blockcahin or quantum electrodynamics
-- 📫 How to reach me: pavanananth@protonmail.com
-- 😄 Pronouns: He/Him
-- 🕵️ Highlights : Pro | I love StarWars
-- ✨ languages known: | Python : I | C++ : I | C : I | Solidity : I | JavaScript(Node & React) : I | Go : B | Kotlin : B | Shell scripting : B |
-- ✔(B : Beginner, I : Intermediate )
-- ✌  In progress skills: | MongoDB | Angular | Figma UX-UI | C# | Vyper | Haskell | Rust |
+- ▶ Co-founder & CEO of AstraCorp.
+- ▶ Currently working on: Integrating Defi & IPFS to Leptron test network
+- ▶ Major intrests: Blockcahin & quantum electrodynamics
+- ▶ How to reach me: pavanananth@protonmail.com
+- ▶ Pronouns: He/Him
+- ▶ Highlights : Pro | I love StarWars
+- ▶ languages known: | Python : I | C++ : I | C : I | Solidity : I | JavaScript(Node & React) : I | Go : B | Kotlin : B | Shell scripting : B |
+- ▶(I : Intermediate, B : Beginner)
+- ▶  In progress skills: | MongoDB | Angular | Figma UX-UI | C# | Vyper | Haskell | Rust |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### GitHub Stats:
 
