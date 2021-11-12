@@ -19,5 +19,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Pavan Ananth Sharma's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanAnanthSharma&show_icons=true&theme=radical)
+### Languages used by Pavan Ananth Sharma:
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanAnanthSharma&show_icons=true&theme=radical)
 
