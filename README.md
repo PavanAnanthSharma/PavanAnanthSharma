@@ -14,7 +14,9 @@
 - ▶  In progress skills: | MongoDB | Angular | Figma UX-UI | C# | Vyper | Haskell | Rust |
 
 <img src = "https://img.shields.io/badge/-Solidity-363636?logo=Solidity&logoColor=fff" /></center>
+<img src = "https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=fff" /></center>
 <img src = "https://img.shields.io/badge/-Ethereum-3C3C3D?logo=Ethereum&logoColor=fff" /></center>
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### GitHub Stats:
