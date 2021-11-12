@@ -19,6 +19,5 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Top languages used: 
-<img scr = "https://github-readme-stats.vercel.app/api/top-langs/?username=PavanAnanthSharma&show_icons=true&theme=radical"/>
+![Pavan Ananth Sharma's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanAnanthSharma&show_icons=true&theme=radical)
 
