@@ -43,13 +43,30 @@
 <img src = "https://img.shields.io/badge/-Bitcoin-F7931A?logo=Bitcoin&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-IBM-052FAD?logo=IBM&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Ethereum-3C3C3D?logo=Ethereum&logoColor=fff" /></center>
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### GitHub Stats:
 
-<center><img src = "https://github-readme-stats.vercel.app/api?username=PavanAnanthSharma&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></center>
-
+ <br/>
+    <a href="https://github.com/PavanAnanthSharma/github-readme-stats"><img alt="Pavan Ananth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PavanAnanthSharma&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/PavanAnanthSharma/github-readme-stats"><img alt="Pavan Ananth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanAnanthSharma&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Languages used by Pavan Ananth Sharma:
+<br/>
+<br/>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanAnanthSharma&show_icons=true&theme=radical)
+<a href="https://github.com/PavanAnanthSharma/github-readme-activity-graph"><img alt="Pavan Ananth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PavanAnanthSharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+  
+  
+  
+  
+  
+  
+  
+  
