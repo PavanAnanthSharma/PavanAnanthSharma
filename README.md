@@ -1,7 +1,6 @@
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Pavan Ananth here...!!</h1>
-<h3 align="center">I'm a fullstack blockcahin developer working with Ethereum dapps.</h3>
-
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+ <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Pavan Ananth here...!!</h1>
+<h3 align="center">I'm a fullstack blockcahin developer working with Ethereum dapps.</h3>
 
 #### 💥Let's make this right as rain 
 
@@ -54,17 +53,6 @@
 </center>
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<br/>
-<br/>
-
-<a href="https://github.com/PavanAnanthSharma/github-readme-activity-graph"><img alt="Pavan Ananth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PavanAnanthSharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-  
-  
   
   
   
