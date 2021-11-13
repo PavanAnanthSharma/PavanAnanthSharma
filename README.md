@@ -1,4 +1,10 @@
-### Hi there, Pavan Ananth here! 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Pavan Ananth here...!!</h1>
+<h3 align="center">I'm a fullstack blockcahin developer working with Ethereum dapps.</h3>
+
+
+
+
 #### 💥Let's make this right as rain 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
