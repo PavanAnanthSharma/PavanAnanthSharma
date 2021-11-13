@@ -12,7 +12,6 @@
 - ▶ Co-founder & CEO of AstraCorp.
 - ▶ Currently working on: Integrating Defi & IPFS to Leptron test network
 - ▶ Major intrests: Blockcahin & quantum electrodynamics
-- ▶ How to reach me: Instagram and Mail
 - ▶ Pronouns: He/Him
 - ▶ Highlights : Pro | I love StarWars
 - ▶ languages known: | Python : I | C++ : I | C : I | Solidity : I | JavaScript(Node & React) : I | Go : B | Kotlin : B | Shell scripting : B |
