@@ -36,6 +36,8 @@
 <img src = "https://img.shields.io/badge/-Chainlink-375BD2?logo=Chainlink&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Unity-000000?logo=Unity&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Unrel Engine-0E1128?logo=Unreal Engine&logoColor=fff"/></center>
+<img src = "https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=fff"/></center>
+<img src = "https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Kali Linux-557C94?logo=Kali Linux&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Binance-F0B90B?logo=Binance&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Bitcoin-F7931A?logo=Bitcoin&logoColor=fff"/></center>
