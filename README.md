@@ -15,6 +15,10 @@
 - ▶ languages known: | Python : I | C++ : I | C : I | Solidity : I | JavaScript(Node & React) : I | Go : B | Kotlin : B | Shell scripting : B |
 - ▶(I : Intermediate, B : Beginner)
 - ▶  In progress skills: | MongoDB | Angular | Figma UX-UI | C# | Vyper | Haskell | Rust |
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### All skills:
 
 <img src = "https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=fff"/></center>
@@ -44,9 +48,8 @@
 <img src = "https://img.shields.io/badge/-IBM-052FAD?logo=IBM&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Ethereum-3C3C3D?logo=Ethereum&logoColor=fff" /></center>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### GitHub Stats:
 
  <br/>
