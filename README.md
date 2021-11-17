@@ -10,6 +10,7 @@
 - ▶ Currently working on: Integrating Defi & IPFS to Leptron test network
 - ▶ Major intrests: Blockcahin & quantum electrodynamics
 - ▶ Reach me : ```Instagram: pavan_ananth```
+- ▶ Support wallet : ```0x592eF244F8924be9F3F8803f8d639392f465Ac51```
 - ▶ Pronouns: He/Him
 - ▶ Highlights : Pro | I love StarWars
 - ▶ languages known: | Python : I | C++ : I | C : I | Solidity : I | JavaScript(Node & React) : I | Go : B | Kotlin : B | Shell scripting : B |
@@ -59,6 +60,11 @@
   <a href="https://github.com/PavanAnanthSharma/github-readme-stats"><img alt="Pavan Ananth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanAnanthSharma&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </center>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Thts all about me, would love to work and improve your projects!!
+
+![Thts all about me!!](https://myoctocat.com/assets/images/base-octocat.svg)
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
