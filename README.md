@@ -5,7 +5,7 @@
 #### 💥Let's make this right as rain   
  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+ 
 - ▶ Co-founder & CEO of AstraCorp.
 - ▶ Currently working on: Integrating Defi & IPFS to Leptron test network
 - ▶ Major intrests: Blockcahin & quantum electrodynamics
