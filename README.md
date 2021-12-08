@@ -12,7 +12,7 @@
 - ▶ Reach me : ```Instagram: pavan_ananth```
 - ▶ Support wallet : ```0x592eF244F8924be9F3F8803f8d639392f465Ac51```
 - ▶ Pronouns: He/Him
-- ▶ Highlights : Pro | I love StarWars
+- ▶ Highlights : Pro | I love StarWars | CS:GO forever 
 - ▶ languages known: | Python : I | C++ : I | C : I | Solidity : I | JavaScript(Node & React) : I | Go : B | Kotlin : B | Shell scripting : B |
 - ▶(I : Intermediate, B : Beginner)
 - ▶  In progress skills: | MongoDB | Angular | Figma UX-UI | C# | Vyper | Haskell | Rust | 
