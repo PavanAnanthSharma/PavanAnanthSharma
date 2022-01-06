@@ -54,12 +54,10 @@
 ### GitHub Stats:
 
  <br/>
-   <center> 
  <a href="https://github.com/PavanAnanthSharma/github-readme-stats"><img alt="Pavan Ananth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PavanAnanthSharma&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
   <a href="https://github.com/PavanAnanthSharma/github-readme-stats"><img alt="Pavan Ananth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanAnanthSharma&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-</center>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Thts all about me, would love to work and improve your projects!!
@@ -72,7 +70,10 @@
 > ```0x592eF244F8924be9F3F8803f8d639392f465Ac51```
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  
-  
+<p align="center">
+    <a href="https://github.com/PavanAnanthSharma/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PavanAnanthSharma" src="https://github-readme-streak-stats.herokuapp.com/?user=PavanAnanthSharma&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
   
   
