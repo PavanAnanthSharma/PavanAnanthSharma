@@ -6,7 +6,7 @@
     
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-- ▶ Co-founder & CEO of AstraCorp.
+- ▶ Co-founder & CEO of AstraCorp. 
 - ▶ Currently working on: Integrating Defi & IPFS to Leptron test network
 - ▶ Major intrests: Blockcahin & quantum electrodynamics
 - ▶ Reach me : ```Instagram: pavan_ananth```
