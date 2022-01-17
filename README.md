@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<img src="https://user-images.githubusercontent.com/73031725/141452897-6fe26f52-bdd1-48be-9a22-67603245b961.gif">
  <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Pavan Ananth here...!!<img src="https://user-images.githubusercontent.com/73031725/137622078-5a00cc56-0844-4962-aa5f-17d968130cbd.gif" width="60px">
 <h3 align="center">I'm a fullstack blockcahin developer working with Ethereum dapps.</h3>
 
@@ -87,14 +87,6 @@
 
 
 
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<img src="https://user-images.githubusercontent.com/73031725/137603046-43e832a8-6c63-4083-bfa2-80530f7fbfdc.gif">
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 </table>
 <table> 
    <tr>
@@ -104,13 +96,8 @@
 
 
 <img src="https://user-images.githubusercontent.com/73031725/142425923-f89c3afa-ce46-4ced-8763-4a3240e622b4.gif"  width="5000px">
-  
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- <img src="https://user-images.githubusercontent.com/73031725/140681260-68fb2916-3a67-42a8-931e-c035cb7d54ff.gif" width="5000px"> -->
- 
-<img src="https://user-images.githubusercontent.com/73031725/141452897-6fe26f52-bdd1-48be-9a22-67603245b961.gif">
+<img src="https://user-images.githubusercontent.com/73031725/137603046-43e832a8-6c63-4083-bfa2-80530f7fbfdc.gif">
+<img src="https://user-images.githubusercontent.com/73031725/140681260-68fb2916-3a67-42a8-931e-c035cb7d54ff.gif" width="5000px">
