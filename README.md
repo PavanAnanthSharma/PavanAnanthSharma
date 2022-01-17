@@ -16,7 +16,9 @@
 - ▶ Highlights : Pro | I love StarWars | CS:GO forever 
 - ▶ languages known: | Python : I | C++ : I | C : I | Solidity : I | JavaScript(Node & React) : I | Go : B | Kotlin : B | Shell scripting : B |
 - ▶(I : Intermediate, B : Beginner)
-- ▶  In progress skills: | MongoDB | Angular | Figma UX-UI | C# | Vyper | Haskell | Rust | 
+- ▶ In progress skills: | MongoDB | Angular | Figma UX-UI | C# | Vyper | Haskell | Rust | 
+- ▶ Support wallet ```0x592eF244F8924be9F3F8803f8d639392f465Ac51```
+
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -54,27 +56,61 @@
 
 ### GitHub Stats:
 
- <br/>
- <a href="https://github.com/PavanAnanthSharma/github-readme-stats"><img alt="Pavan Ananth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PavanAnanthSharma&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<table> 
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=PavanAnanthSharma&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanAnanthSharma&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
+   </tr>
  
-  <a href="https://github.com/PavanAnanthSharma/github-readme-stats"><img alt="Pavan Ananth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanAnanthSharma&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+ 
+</table>
+<table>
+  <tr>
+     <p align="center">
+      <img src="https://user-images.githubusercontent.com/73031725/137623618-3ca683ce-a649-406a-b48f-f676478ec204.gif" width="150px">
+        <img src="https://github-profile-trophy.vercel.app/?username=PavanAnanthSharma&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord&no- bg=true&column=3&margin-w=15&margin-h=15">
+       <img src="https://user-images.githubusercontent.com/73031725/137628287-b06683ee-0f84-49c4-a7fc-3776d15f9e0c.gif" width="130px">
+    </p>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <p align="center">
+      <img src="https://user-images.githubusercontent.com/73031725/137620111-6da0213c-ff7f-4f14-80c8-a2446ae8150b.gif" width="140px">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanAnanthSharma&theme=radical" alt="PavanAnanthSharma">
+      <img src="https://user-images.githubusercontent.com/73031725/137621641-eb0e1dbe-c625-405c-bd0f-fc3ab1454943.gif" width="160px">
+    </p>
+  </tr>
+</table>
+
+
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Thts all about me, would love to work and improve your projects!!
 
-![Thts all about me!!](https://myoctocat.com/assets/images/base-octocat.svg)
+<img src="https://user-images.githubusercontent.com/73031725/137603046-43e832a8-6c63-4083-bfa2-80530f7fbfdc.gif">
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+</table>
+<table> 
+   <tr>
+      <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=PavanAnanthSharma&bg_color=212121&color=FFFFFF&line=e60e8f&point=e3d212&area=true" display=block width=100% height=auto alt="2"></p>
+  </tr>
+</table>
+
+
+<img src="https://user-images.githubusercontent.com/73031725/142425923-f89c3afa-ce46-4ced-8763-4a3240e622b4.gif"  width="5000px">
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-> Support wallet:
-> ```0x592eF244F8924be9F3F8803f8d639392f465Ac51```
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-    <a href="https://github.com/PavanAnanthSharma/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PavanAnanthSharma" src="https://github-readme-streak-stats.herokuapp.com/?user=PavanAnanthSharma&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-  
-  
+
+ <img src="https://user-images.githubusercontent.com/73031725/140681260-68fb2916-3a67-42a8-931e-c035cb7d54ff.gif" width="5000px"> -->
+ 
+<img src="https://user-images.githubusercontent.com/73031725/141452897-6fe26f52-bdd1-48be-9a22-67603245b961.gif">
