@@ -17,7 +17,7 @@
 - ▶ Reach me : ```Instagram: pavan_ananth```
 - ▶ Pronouns: He/Him
 - ▶ Highlights : I love StarWars | CS:GO forever 
-- ▶ Support wallet ```0x592eF244F8924be9F3F8803f8d639392f465Ac51```
+- ▶ Support wallet : ```0x592eF244F8924be9F3F8803f8d639392f465Ac51```
 
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
