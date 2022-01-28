@@ -12,8 +12,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
  
 - ▶ Co-founder & CEO of AstraCorp. 
-- ▶ Currently working on: Integrating Defi & IPFS to Leptron test network
-- ▶ Major intrests: Blockcahin & quantum electrodynamics
+- ▶ Currently working on: ZK-SNARK & Unity based NFT(ERC-721 and ERC-1155) games.
+- ▶ Major intrests: Blockcahin & Qntum electrodynamics
 - ▶ Reach me : ```Instagram: pavan_ananth```
 - ▶ Pronouns: He/Him
 - ▶ Highlights : I love StarWars | CS:GO forever 
