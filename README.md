@@ -51,7 +51,7 @@
 <img src = "https://img.shields.io/badge/-Bitcoin-F7931A?logo=Bitcoin&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-IBM-052FAD?logo=IBM&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Ethereum-3C3C3D?logo=Ethereum&logoColor=fff" /></center>
-<img src = "https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
+<img src = "https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
