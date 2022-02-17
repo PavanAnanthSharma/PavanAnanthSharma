@@ -33,7 +33,7 @@
 <img src = "https://img.shields.io/badge/-React-61DAFB?logo=Node.js&logoColor=fff"/></center>   
 <img src = "https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=fff" /></center>
 <img src = "https://img.shields.io/badge/-Kotlin-7F52FF?logo=Kotlin&logoColor=fff"/></center>
-<img src = "https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff"/></center>
+<img src = "https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff"/></center> 
 <img src = "https://img.shields.io/badge/-AngularJS-E23237?logo=AngularJS&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-C Sharp-239120?logo=C Sharp&logoColor=fff"/></center>
