@@ -40,7 +40,7 @@
 <img src = "https://img.shields.io/badge/-Rust-000000?logo=Rust&logoColor=fff"/></center> 
 <img src = "https://img.shields.io/badge/-Haskell-5D4F85?logo=Haskell&logoColor=fff"/></center> 
 <img src = "https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff"/></center>
-<img src = "https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=fff"/></center>
+<img src = "https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=fff"/></center> 
 <img src = "https://img.shields.io/badge/-Chainlink-375BD2?logo=Chainlink&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Unity-000000?logo=Unity&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Unrel Engine-0E1128?logo=Unreal Engine&logoColor=fff"/></center>
