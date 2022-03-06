@@ -25,7 +25,7 @@
 ### All skills:
 
 <img src = "https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff"/></center>   
-<img src = "https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=fff"/></center>    
+<img src = "https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=fff"/></center>     
 <img src = "https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=fff"/></center>   
 <img src = "https://img.shields.io/badge/-Solidity-363636?logo=Solidity&logoColor=fff" /></center>
 <img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff"/></center> 
