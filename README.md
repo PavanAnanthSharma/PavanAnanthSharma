@@ -29,7 +29,7 @@
 <img src = "https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Solidity-363636?logo=Solidity&logoColor=fff" /></center>
 <img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff"/></center>
-<img src = "https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=fff"/></center> 
+<img src = "https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-React-61DAFB?logo=Node.js&logoColor=fff"/></center>   
 <img src = "https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=fff" /></center>
 <img src = "https://img.shields.io/badge/-Kotlin-7F52FF?logo=Kotlin&logoColor=fff"/></center>
