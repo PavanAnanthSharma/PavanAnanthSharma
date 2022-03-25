@@ -114,5 +114,5 @@
     <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PavanAnanthSharma&theme=monokai"  display=block width=100% height=auto alt="1"></p>
    </tr>
 </table>
-<img src = "https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg"> -->  
+<img src = "https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg"> -->   
   
