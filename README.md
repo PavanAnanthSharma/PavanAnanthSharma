@@ -110,7 +110,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--<table> 
-  <tr>
+  <tr> 
     <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PavanAnanthSharma&theme=monokai"  display=block width=100% height=auto alt="1"></p>
    </tr>
 </table>
