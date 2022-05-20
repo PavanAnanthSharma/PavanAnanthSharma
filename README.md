@@ -11,7 +11,7 @@
      
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
  
-- ▶ Co-founder & CEO of AstraCorp.  
+- ▶ Co-founder & CEO of Leptron.  
 - ▶ Currently working on: ```ZK-SNARK``` & Unity based NFT(ERC-721 and ERC-1155) games.
 - ▶ Major intrests: Blockcahin & Qntum electrodynamics 
 - ▶ Reach me : ```Instagram: pavan_ananth```  
