@@ -68,7 +68,7 @@
 <table>
   <tr>
      <p align="center">
-      <img src="https://user-images.githubusercontent.com/73031725/137623618-3ca683ce-a649-406a-b48f-f676478ec204.gif" width="150px">
+<!--       <img src="https://user-images.githubusercontent.com/73031725/137623618-3ca683ce-a649-406a-b48f-f676478ec204.gif" width="150px"> -->
         <img src="https://github-profile-trophy.vercel.app/?username=PavanAnanthSharma&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord&no- bg=true&column=3&margin-w=15&margin-h=15">
        <img src="https://user-images.githubusercontent.com/73031725/137628287-b06683ee-0f84-49c4-a7fc-3776d15f9e0c.gif" width="130px">
     </p>
