@@ -8,7 +8,7 @@
 <h2 align="center">I'm a fullstack blockchain developer working with Ethereum dapps & NFT gaming 🖤</h2>      
      
        
-#### 💥Let's make this right as rain           
+#### 💥Life is just a hallucination caused by oxygen        
      
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
