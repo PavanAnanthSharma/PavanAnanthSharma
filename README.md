@@ -19,7 +19,7 @@
 - ▶ Pronouns: He/Him
 - ▶ Highlights : I love StarWars | CS:GO forever <!--<img src = "https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />-->
 - ▶ Support wallet : ```0x592eF244F8924be9F3F8803f8d639392f465Ac51``` 
-  
+
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
