@@ -5,7 +5,7 @@
   
 <img src="https://user-images.githubusercontent.com/73031725/141452897-6fe26f52-bdd1-48be-9a22-67603245b961.gif">     
    
-<h2 align="center">I'm a fullstack blockchain developer working with Ethereum dapps & NFT gaming 🖤</h2>      
+<h2 align="center">I'm a fullstack blockchain developer working with Ethereum dapps & NFT gaming 🖤</h2>     
      
        
 #### 💥Life is just a hallucination caused by oxygen        
